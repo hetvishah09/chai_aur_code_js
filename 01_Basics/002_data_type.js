@@ -1,15 +1,18 @@
-// premitiive data types: nn bb ss u
-// number
+// Premitive data types: Call by value
+// (short form>>> nn bb ss u )
+// Number
 // null
-// boolean
-// bigint
+// Boolean
+// Bigint
 // string  
 // symbol
 // undefined
-// non-premitiive data types
-// object
-// array
-// function
+
+
+// non-premitiive data types: Reference type(in memory it will take reference)
+// Objects
+// Array
+// Function
 
 
 let a = 5;
